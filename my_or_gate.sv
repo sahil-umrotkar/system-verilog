@@ -4,6 +4,6 @@ module my_or_gate (
     output wire OUT;
 );
 
-assign OUT = A | B
+assign OUT = A | B // logical OR
     
 endmodule
